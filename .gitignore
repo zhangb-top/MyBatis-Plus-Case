@@ -1,0 +1,7 @@
+Vue/mybatis-plus-case/node_modules
+Vue/mybatis-plus-case/dist
+
+Java/mybatis-plus-case/.idea
+Java/mybatis-plus-case/target
+Java/mybatis-plus-case/*.iml
+Java/mybatis-plus-case/src/test
